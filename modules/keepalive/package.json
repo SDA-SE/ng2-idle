@@ -1,5 +1,5 @@
 {
-  "name": "@ng-idle/keepalive",
+  "name": "@ng-idle-e2e-fix/keepalive",
   "version": "0.0.0-PLACEHOLDER",
   "description": "ng-idle for Angular 2+ keepalive module",
   "main": "bundles/keepalive.umd.js",
@@ -7,7 +7,7 @@
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HackedByChinese/ng2-idle.git"
+    "url": "git+https://github.com/SDA-SE/ng2-idle.git#v2.0.0-beta.12-e2e-fix"
   },
   "keywords": [
     "angular",

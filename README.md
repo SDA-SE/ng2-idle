@@ -1,3 +1,12 @@
+---
+
+This package is just a fork of [ng-idle module](https://github.com/HackedByChinese/ng-idle) v2.0.0-beta12 with the fix for protractor e2e tests which has been included in version v2.0.0-beta15 in following commit: https://github.com/HackedByChinese/ng2-idle/commit/d8599d7.
+Unfortunately v2.0.0-beta15 doesn't work with karma in Angular 4 or Ionic 3 (which is based on Angular 4)
+
+No further releases are planed. If you need new features switch to original [ng-idle module](https://github.com/HackedByChinese/ng-idle)
+
+---
+
 # Introduction
 [![Join the chat at https://gitter.im/HackedByChinese/ng2-idle](https://badges.gitter.im/HackedByChinese/ng2-idle.svg)](https://gitter.im/HackedByChinese/ng2-idle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/HackedByChinese/ng2-idle.svg?branch=master)](https://travis-ci.org/HackedByChinese/ng2-idle) [![Coverage Status](https://coveralls.io/repos/github/HackedByChinese/ng2-idle/badge.svg?branch=master)](https://coveralls.io/github/HackedByChinese/ng2-idle?branch=master)
 

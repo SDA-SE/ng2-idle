@@ -1,6 +1,6 @@
 import {EventEmitter, Injectable, OnDestroy} from '@angular/core';
 import {Http, Request, RequestMethod, Response} from '@angular/http';
-import {KeepaliveSvc} from '@ng-idle/core';
+import {KeepaliveSvc} from '@ng-idle-e2e-fix/core';
 
 
 /**

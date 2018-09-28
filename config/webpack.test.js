@@ -41,7 +41,7 @@ module.exports = function (options) {
     resolve: {
 
       alias: {
-        '@ng-idle/core': root('../modules/core/index')
+        '@ng-idle-e2e-fix/core': root('../modules/core/index')
       },
 
       /**

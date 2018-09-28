@@ -1,5 +1,5 @@
 import {ModuleWithProviders, NgModule} from '@angular/core';
-import {KeepaliveSvc, NgIdleModule} from '@ng-idle/core';
+import {KeepaliveSvc, NgIdleModule} from '@ng-idle-e2e-fix/core';
 
 import {Keepalive} from './keepalive';
 

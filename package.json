@@ -1,6 +1,6 @@
 {
   "name": "ng-idle-src",
-  "version": "2.0.0-beta.12",
+  "version": "2.0.0-beta.12-e2e-fix.1",
   "private": true,
   "description": "A module for responding to idle users in Angular 2+ applications.",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HackedByChinese/ng2-idle.git"
+    "url": "git+https://github.com/SDA-SE/ng2-idle.git"
   },
   "author": "Mike Grabski <me@mikegrabski.com> (http://mikegrabski.com/)",
   "license": "Apache-2.0",

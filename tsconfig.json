@@ -13,7 +13,7 @@
     "strictNullChecks": false,
     "baseUrl": "./modules",
     "paths": {
-      "@ng-idle/core": ["../modules/core"]
+      "@ng-idle-e2e-fix/core": ["../modules/core"]
     },
     "lib": [
       "dom",

@@ -19,7 +19,7 @@
       "jasmine"
     ],
     "paths": {
-      "@ng-idle/core": ["./core"]
+      "@ng-idle-e2e-fix/core": ["./core"]
     }
   },
   "angularCompilerOptions": {

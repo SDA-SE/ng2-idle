@@ -17,7 +17,7 @@ modules.map(function(module) {
   if (module !== 'keepalive') {
     delete pkg.peerDependencies["@angular/http"];
   } else {
-    pkg.peerDependencies['@ng-idle/core'] = '^' + basePkg.version;
+    pkg.peerDependencies['@ng-idle-e2e-fix/core'] = '^' + basePkg.version;
   }
 
   fs.writeFileSync(dest, JSON.stringify(pkg, null, 2), 'utf-8');

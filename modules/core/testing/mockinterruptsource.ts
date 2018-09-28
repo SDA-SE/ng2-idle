@@ -1,4 +1,4 @@
-import {InterruptArgs, InterruptSource} from '@ng-idle/core';
+import {InterruptArgs, InterruptSource} from '@ng-idle-e2e-fix/core';
 
 
 /*

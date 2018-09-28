@@ -10,7 +10,7 @@ export default {
   globals: {
     '@angular/core': 'ng.core',
     'rxjs/Rx': 'Rx',
-    '@ng-idle/core': 'ngidle.core'
+    '@ng-idle-e2e-fix/core': 'ngidle.core'
   },
   plugins: ugly ? [
     uglify()
