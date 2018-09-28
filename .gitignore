@@ -39,3 +39,6 @@ dist
 
 # VS Code config
 .vscode
+
+# IntelliJ
+.idea
